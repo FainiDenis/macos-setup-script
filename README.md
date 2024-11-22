@@ -57,7 +57,7 @@ Before running the script, ensure that you meet the following prerequisites:
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://www.mit.edu/~amini/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/FainiDenis/macos-setup-script/tree/main?tab=MIT-1-ov-file#) file for details.
 
 ## Acknowledgements
 - This script utilizes  **Homebrew**  for package management,  **Cask**  for GUI applications, and  **mas**  for installing Mac App Store apps.
